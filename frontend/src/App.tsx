@@ -311,6 +311,16 @@ export default function App() {
         )}
       </main>
 
+      {/* FOOTER KREDIT SELARAS DENGAN DYSNOPIA.COM */}
+      <footer className="border-t border-stone-800/80 mt-10 py-6 text-center text-xs text-stone-400 space-y-1">
+        <p className="text-stone-300 font-medium">
+          © {new Date().getFullYear()} Affan Abdurrahman · Reverse: 1999 Builder
+        </p>
+        <p className="text-stone-500">
+          Designed and developed with the assistance of AI.
+        </p>
+      </footer>
+
       {/* POP-UP INPUT BUILD SAAT TOMBOL MILIKI / DIMILIKI DIKLIK */}
       {editingChar && (
         <RosterEditorModal

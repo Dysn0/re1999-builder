@@ -44,3 +44,11 @@ npm install
 npm run dev
 ```
 Buka `http://localhost:5173` di browser.
+
+---
+
+## Credits
+
+- **Author:** Affan Abdurrahman ([dysnopia.com](https://dysnopia.com))
+- *Designed and developed with the assistance of AI.*
+

@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"net/http/cgi"
+	"os"
 
 	"re1999-backend/internal/database"
 	"re1999-backend/internal/handlers"
@@ -45,7 +47,10 @@ func main() {
 		log.Fatalf("Gagal melakukan seeding data awal: %v", err)
 	}
 
-	fmt.Println("✅ Database SQLite terhubung & data master Reverse: 1999 (termasuk Tim Dynamo) telah siap!")
+	isCGI := os.Getenv("GATEWAY_INTERFACE") != ""
+	if !isCGI {
+		fmt.Println("✅ Database SQLite terhubung & data master Reverse: 1999 (termasuk Tim Dynamo) telah siap!")
+	}
 	if *seedOnly {
 		return
 	}
@@ -66,7 +71,7 @@ func main() {
 		w.Header().Set("Content-Type", "application/json")
 		json.NewEncoder(w).Encode(map[string]any{
 			"status":           "ok",
-			"phase":            "Fase 2 - Seeding & REST API Endpoints Aktif",
+			"phase":            "Production Ready",
 			"characters_count": charCount,
 			"psychubes_count":  cubeCount,
 			"roster_count":     rosterCount,
@@ -92,9 +97,20 @@ func main() {
 	mux.HandleFunc("GET /api/resonance-presets", api.GetResonancePresets)
 	mux.HandleFunc("POST /api/resonance-presets", api.CreateResonancePreset)
 
-	// 5. Jalankan server HTTP pada port 8080
+	// Jika dipanggil oleh Apache cPanel sebagai CGI script, layani langsung via CGI:
+	if isCGI {
+		if err := cgi.Serve(enableCORS(mux)); err != nil {
+			log.Fatalf("CGI error: %v", err)
+		}
+		return
+	}
+
+	// 5. Jalankan server HTTP (default port 8080, atau sesuai variabel environment PORT)
 	port := ":8080"
-	fmt.Printf("🚀 Server Backend Go (Fase 2) berjalan di http://localhost%s\n", port)
+	if envPort := os.Getenv("PORT"); envPort != "" {
+		port = ":" + envPort
+	}
+	fmt.Printf("🚀 Server Backend Go berjalan di http://localhost%s\n", port)
 	fmt.Println("   - Cek status:        http://localhost:8080/api/health")
 	fmt.Println("   - Daftar karakter:   http://localhost:8080/api/characters")
 	fmt.Println("   - Filter Dynamo:     http://localhost:8080/api/characters?archetype=Dynamo")
