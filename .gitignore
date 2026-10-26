@@ -1,0 +1,20 @@
+# 1. Dependency Frontend (Ukuran besar, bisa di-install ulang dengan npm install)
+frontend/node_modules/
+frontend/dist/
+
+# 2. File hasil kompilasi binary Go (.exe atau binary Linux)
+backend/server.exe
+backend/server
+backend/server_linux
+*.exe
+
+# 3. File Database lokal SQLite (akan otomatis dibuat ulang oleh Seed saat dijalankan)
+backend/data/*.db
+backend/data/*.db-shm
+backend/data/*.db-wal
+
+# 4. File sistem operasi & editor
+.DS_Store
+Thumbs.db
+.env
+.env.local

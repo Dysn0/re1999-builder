@@ -1,0 +1,1292 @@
+[
+    {
+        "id":  "flutterpage",
+        "name":  "Flutterpage",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Support Extra Action DPS Channel Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/flutterpage-face.webp",
+        "description":  "Builds Gust off every action any ally takes, and at the start of each round turns those stacks into a Force Field that gets stronger at 5, 15 and 25 stacks."
+    },
+    {
+        "id":  "recoleta",
+        "name":  "Recoleta",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Ritual Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/recoleta-face.webp",
+        "description":  "A burst damage dealer who can hold Moxie past the usual 5 and dumps all of it into the Ultimate."
+    },
+    {
+        "id":  "medicine-pocket",
+        "name":  "Medicine Pocket",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Heal Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/medicine-pocket-face.webp",
+        "description":  "A healer with offense built in."
+    },
+    {
+        "id":  "melania",
+        "name":  "Melania",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/melania-face.webp",
+        "description":  "A Moxie thief."
+    },
+    {
+        "id":  "fatutu",
+        "name":  "Fatutu",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "Heal Extra Action Remove Debuffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/fatutu-face.webp",
+        "description":  "A healer who works by throwing Spirit Shell onto enemies and pulling it back: every stack retrieved heals the whole team for 30% of Fatutu\u0027s ATK."
+    },
+    {
+        "id":  "kiperina",
+        "name":  "Kiperina",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Shield Inspiration Support Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/kiperina-face.webp",
+        "description":  "A shield support for Impromptu Incantation teams."
+    },
+    {
+        "id":  "pickles",
+        "name":  "Pickles",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/pickles-face.webp",
+        "description":  "A Mental damage dealer who also strips buffs, since Hedonism Implement hits two enemies and dispels their Stats Up, Pos Status and Counter effects."
+    },
+    {
+        "id":  "lucy",
+        "name":  "Lucy",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Dynamo",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/lucy-face.webp",
+        "description":  "A Dynamo-spending Reality DPS."
+    },
+    {
+        "id":  "nautika",
+        "name":  "Nautika",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS Bloodtithe Channel",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/nautika-face.webp",
+        "description":  "Runs on HP loss instead of Moxie: whenever an ally loses HP, Nautika gains Bloodtithe, every increase adds Faith, and the Ultimate unlocks at 8 Faith."
+    },
+    {
+        "id":  "semmelweis",
+        "name":  "Semmelweis",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS HP Sacrifice Support Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/semmelweis-face.webp",
+        "description":  "Semmelweis turns HP loss into damage."
+    },
+    {
+        "id":  "ulrich",
+        "name":  "Ulrich",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Dynamo Support Channel Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ulrich-face.webp",
+        "description":  "Neither of Ulrich\u0027s incantations is an attack."
+    },
+    {
+        "id":  "beryl",
+        "name":  "Beryl",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Lingering Glow Extra Action Rank Up",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/beryl-face.webp",
+        "description":  "A Mental DPS built around Halo stacks."
+    },
+    {
+        "id":  "brume",
+        "name":  "Brume",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Dynamo Support Channel Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/brume-face.webp",
+        "description":  "A Mental DPS that stockpiles Thermoelectric Conversion from every source it can: 5 a round, more for each 20 Dynamo the team transfers, more for Burn applied."
+    },
+    {
+        "id":  "charon",
+        "name":  "Charon",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "Support Dynamo DPS Channel Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/charon-face.webp",
+        "description":  "A Dynamo support that keeps a Pulsing Field up every round and pours up to 20 Dynamo into it at round end."
+    },
+    {
+        "id":  "enigma",
+        "name":  "Enigma",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "Shield Dynamo Support Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/enigma-face.webp",
+        "description":  "A Dynamo support built on Bastion, a barrier worth 700% of ATK that stacks up to 1250%."
+    },
+    {
+        "id":  "igor",
+        "name":  "Igor",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Extra Action Ritual Bullet",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/igor-face.webp",
+        "description":  "A Reality DPS who stacks Shrapnel on the main target and cashes it in with the Ultimate: 900% to every enemy, another 900% to the main target, and 25% more per Shrapnel stack, with no dodging it."
+    },
+    {
+        "id":  "lorentz-butterfly",
+        "name":  "Lorentz Butterfly",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "Support Lingering Glow DPS Rewrite",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/lorentz-butterfly-face.webp",
+        "description":  "A Lingering Glow support who also hits hard: The Primer\u0027s Flutter deals 800% Mental, applies 3 Burn first, and then echoes a share of all the damage allied incantations did to that target this round."
+    },
+    {
+        "id":  "marsha",
+        "name":  "Marsha",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Shield Lingering Glow Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/marsha-face.webp",
+        "description":  "A shield support who also deals damage."
+    },
+    {
+        "id":  "rhiannon",
+        "name":  "Rhiannon",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Support All-Rounder",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/rhiannon-face.webp",
+        "description":  "A support who also hits hard."
+    },
+    {
+        "id":  "anjo-nala",
+        "name":  "Anjo Nala",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Extra Action Ritual Control Channel",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/anjo-nala-face.webp",
+        "description":  "Binds herself to one ally at the start of battle, and the two share stats based on that ally\u0027s Afflatus."
+    },
+    {
+        "id":  "eternity",
+        "name":  "Eternity",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/eternity-face.webp",
+        "description":  "A Reality DPS who pays HP for damage: both attacks cost 10% of current HP, then the Ultimate hits every enemy with 50% Leech Rate to win it back."
+    },
+    {
+        "id":  "37",
+        "name":  "37",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Extra Action Support Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/thirty-seven-face.webp",
+        "description":  "Every attack pairs Mental DMG with extra Genesis DMG equal to 37\u0027s ATK, and Eureka builds from 37\u0027s own incantations and from allies\u0027 extra actions."
+    },
+    {
+        "id":  "6",
+        "name":  "6",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "Support DPS Remove Debuffs Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/six-face.webp",
+        "description":  "Karakter Arcanist berelemen Intellect dengan peran Support DPS Remove Debuffs Eureka."
+    },
+    {
+        "id":  "ramona",
+        "name":  "Ramona",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Poison Rewrite",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ramona-face.webp",
+        "description":  "Karakter Arcanist berelemen Plant dengan peran DPS Poison Rewrite."
+    },
+    {
+        "id":  "rubuska",
+        "name":  "Rubuska",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "Heal Bloodtithe Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/rubuska-face.webp",
+        "description":  "A healer whose team heal restores 25% of each ally\u0027s missing HP plus 30% of Rubuska\u0027s Max HP, and who also feeds Shadow Cloak into every ally\u0027s Shadow Friend."
+    },
+    {
+        "id":  "kakania",
+        "name":  "Kakania",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/kakania-face.webp",
+        "description":  "A tank who takes half the damage aimed at the other allies and banks 10% of every hit as Empathy, up to 20% of Max HP."
+    },
+    {
+        "id":  "coppelia",
+        "name":  "Coppélia",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Conduit Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/coppelia-face.webp",
+        "description":  "A Reality DPS who also powers up a Conduit team."
+    },
+    {
+        "id":  "ms-stranger",
+        "name":  "Ms. Stranger",
+        "tier":  "S",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Ritual",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ms-stranger-face.webp",
+        "description":  "A Mental DPS built around Spelldock position."
+    },
+    {
+        "id":  "bkornblume",
+        "name":  "Bkornblume",
+        "tier":  "S",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/bkornblume-face.webp",
+        "description":  "Prying Ear cuts every enemy\u0027s Reality DEF by 25% and raises their damage taken by 25%, and Bkornblume deals 20% more to anyone carrying a debuff."
+    },
+    {
+        "id":  "windsong",
+        "name":  "Windsong",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Extra Action Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/windsong-face.webp",
+        "description":  "Windsong\u0027s Ultimate is the whole plan: it Confuses one enemy, grants 2 Eureka, turns all of Windsong\u0027s incantations into Rehabilitation and casts them at once."
+    },
+    {
+        "id":  "barcarola",
+        "name":  "Barcarola",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Inspiration Support Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/barcarola-face.webp",
+        "description":  "Another Impromptu Incantation feeder, with 500% Mental hits on both attacks."
+    },
+    {
+        "id":  "lopera",
+        "name":  "Lopera",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Support Burn Channel Bullet Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/lopera-face.webp",
+        "description":  "Karakter Arcanist berelemen Beast dengan peran Support Burn Channel Bullet Array."
+    },
+    {
+        "id":  "aleph",
+        "name":  "Aleph",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "Support Inspiration Channel Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/aleph-face.webp",
+        "description":  "An Inspiration support who feeds Impromptu Incantation."
+    },
+    {
+        "id":  "centurion",
+        "name":  "Centurion",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/centurion-face.webp",
+        "description":  "A Moxie-hoarding damage dealer."
+    },
+    {
+        "id":  "tooth-fairy",
+        "name":  "Tooth Fairy",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Heal Support Remove Debuffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/tooth-fairy-face.webp",
+        "description":  "A healer who also debuffs."
+    },
+    {
+        "id":  "voyager",
+        "name":  "Voyager",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Support DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/voyager-face.webp",
+        "description":  "A controller who Confuses two enemies with Starlight Sonata and follows up with a 500% Ultimate that strips 2 Moxie and adds 100% against Confused targets."
+    },
+    {
+        "id":  "hissabeth",
+        "name":  "Hissabeth",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Ritual Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/hissabeth-face.webp",
+        "description":  "Generates copies of Hiss!"
+    },
+    {
+        "id":  "tuesday",
+        "name":  "Tuesday",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS Poison Support Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/tuesday-face.webp",
+        "description":  "A poison spreader."
+    },
+    {
+        "id":  "sotheby",
+        "name":  "Sotheby",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal Poison",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/sotheby-face.webp",
+        "description":  "Sotheby works over time on both sides."
+    },
+    {
+        "id":  "liang-yue",
+        "name":  "Liang Yue",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Extra Action Immunity",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/liang-yue-face.webp",
+        "description":  "A Reality DPS who doubles as a protector: the Ultimate gives every ally a round of Immunity and 6 stacks of Guardian\u0027s Resolve, and starts Arise, Qiangliang!"
+    },
+    {
+        "id":  "an-an-lee",
+        "name":  "An-an Lee",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "Support DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/an-an-lee-face.webp",
+        "description":  "A support who also does real damage."
+    },
+    {
+        "id":  "regulus",
+        "name":  "Regulus",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/regulus-face.webp",
+        "description":  "A Mental damage dealer with a plain 500% single-target hit and a two-target attack that drains 2 Moxie from enemies whenever it crits."
+    },
+    {
+        "id":  "ezio-auditore",
+        "name":  "Ezio Auditore",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Poison Ritual Extra Action",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ezio-auditore-face.webp",
+        "description":  "An Assassination DPS whose regular attack, Work in the Dark, is a 1000% Reality hit."
+    },
+    {
+        "id":  "sentinel",
+        "name":  "Sentinel",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "Support Bloodtithe DPS Bullet",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/sentinel-face.webp",
+        "description":  "Sentinel stacks Fresh Wound with each Expiation and cashes the stacks in on the Ultimate, a Retribution hit on every enemy that gains 2% per stack and heals 5% of missing HP per stack removed."
+    },
+    {
+        "id":  "jiu-niangzi",
+        "name":  "Jiu Niangzi",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Extra Action Channel",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/jiu-niangzi-face.webp",
+        "description":  "A Liquor-fueled Reality DPS."
+    },
+    {
+        "id":  "lilya",
+        "name":  "Lilya",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "DPS \u003cnobr\u003eFollow-Up\u003c/nobr\u003e",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/lilya-face.webp",
+        "description":  "A crit-based Reality DPS."
+    },
+    {
+        "id":  "corvus",
+        "name":  "Corvus",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Dynamo Channel Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/corvus-face.webp",
+        "description":  "A single-target Mental DPS who stacks Breaking Point on one enemy: the basic attack, the Ultimate and a repeated Rosy Cracks all add a stack."
+    },
+    {
+        "id":  "everecho",
+        "name":  "Everecho",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "Heal Conduit Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/everecho-face.webp",
+        "description":  "A healer for Conduit teams."
+    },
+    {
+        "id":  "mercuria",
+        "name":  "Mercuria",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "Support Rank Up DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/mercuria-face.webp",
+        "description":  "A Rank Up support: the Ultimate strips 2 buffs from every enemy, hits them for 400% and gives all allies Rank Up for 2 rounds."
+    },
+    {
+        "id":  "willow",
+        "name":  "Willow",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Poison Channel",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/willow-face.webp",
+        "description":  "Willow\u0027s damage comes from Poison and Hag\u0027s Bane rather than direct hits, since both incantations deal just 175%."
+    },
+    {
+        "id":  "moldir",
+        "name":  "Moldir",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Support Ritual DPS Riposte",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/moldir-face.webp",
+        "description":  "A riposte support that earns Readiness every time the team spends Moxie."
+    },
+    {
+        "id":  "vila",
+        "name":  "Vila",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal Rank Up Support Remove Debuffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/3087-face.webp",
+        "description":  "Vila buffs one ally at a time with Song of Generosity and heals with Wordless Song, which also grants Sturdiness."
+    },
+    {
+        "id":  "j",
+        "name":  "J",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Shield Burn Support Riposte",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/joe-face.webp",
+        "description":  "Karakter Arcanist berelemen Beast dengan peran Shield Burn Support Riposte."
+    },
+    {
+        "id":  "argus",
+        "name":  "Argus",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Rank Up Support Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/argus-face.webp",
+        "description":  "A single-target debuffer: Penetrating Eye strips buffs from one enemy and marks it with 10 stacks of Pinpointed, and the Ultimate deepens that mark and gains 30% Penetration and 30% Crit Rate against it."
+    },
+    {
+        "id":  "cheng-heguang",
+        "name":  "Cheng Heguang",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Support Extra Action DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/cheng-heguang-face.webp",
+        "description":  "A Reality DPS whose 1000% Ultimate counts as a follow-up attack and leaves Cheng Heguang with Continuous Action I and Lofty Ambitions for 2 rounds."
+    },
+    {
+        "id":  "silverwing-eagle",
+        "name":  "Silverwing Eagle",
+        "tier":  "A",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Ritual Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/silverwing-eagle-face.webp",
+        "description":  "Every active attack Silverwing Eagle makes is followed by a Lorentz Tracking System shot on the main target."
+    },
+    {
+        "id":  "balloon-party",
+        "name":  "Balloon Party",
+        "tier":  "A",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "Heal",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/balloon-party-face.webp",
+        "description":  "A healer whose numbers scale off missing HP: Coughing Weirdo restores 40% of every ally\u0027s missing HP, so it hits hardest when the team is low."
+    },
+    {
+        "id":  "cornerstone",
+        "name":  "Cornerstone",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Riposte",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/cornerstone-face.webp",
+        "description":  "Karakter Arcanist berelemen Mineral dengan peran DPS Riposte."
+    },
+    {
+        "id":  "a-knight",
+        "name":  "A Knight",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/a-knight-face.webp",
+        "description":  "A Reality DPS that hits harder the more damaged the target is: every 20% of Max HP missing adds 10% damage and, at Insight 3, 10% Penetration."
+    },
+    {
+        "id":  "druvis-iii",
+        "name":  "Druvis III",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/druvis-iii-face.webp",
+        "description":  "A Mental DPS with hard control: Wind into the Woods petrifies its target for 2 rounds, and the Ultimate hits every enemy and petrifies the main one for another round."
+    },
+    {
+        "id":  "kassandra",
+        "name":  "Kassandra",
+        "tier":  "A",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Extra Action Ritual Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/kassandra-face.webp",
+        "description":  "An Assassination DPS whose 750% Ultimate counts as an Assassination."
+    },
+    {
+        "id":  "sonetto",
+        "name":  "Sonetto",
+        "tier":  "A",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/sonetto-face.webp",
+        "description":  "A support whose main job is Exhortations IX: 25% more DMG Dealt and 25% less DMG Taken for the whole team over 3 rounds."
+    },
+    {
+        "id":  "dikke",
+        "name":  "Dikke",
+        "tier":  "A",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "Heal",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/dikke-face.webp",
+        "description":  "A damage dealer who can also heal the team."
+    },
+    {
+        "id":  "jessica",
+        "name":  "Jessica",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Poison",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/jessica-face.webp",
+        "description":  "A Poison DPS who keeps the status up without help: Jessica poisons every enemy at the start and on a 3-round cycle, and the Ultimate adds more."
+    },
+    {
+        "id":  "isolde",
+        "name":  "Isolde",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS Burn Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/isolde-face.webp",
+        "description":  "A Burn stacker whose passive advances in stages: Burn ticking off enemies turns into Heat, and 15 Heat moves Isolde from Prelude to Interlude, 40 to Finale."
+    },
+    {
+        "id":  "ezra-theodore",
+        "name":  "Ezra Theodore",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Star",
+        "role_tags":  "Shield Support Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ezra-theodore-face.webp",
+        "description":  "A mushroom gardener: both incantations cost 10% of current HP and plant two fungi, Honey Fungus from the attack and Ghost Fungus from the team shield."
+    },
+    {
+        "id":  "noire",
+        "name":  "Noire",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Ritual Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/noire-face.webp",
+        "description":  "A debuff-scaling Mental DPS."
+    },
+    {
+        "id":  "marcus",
+        "name":  "Marcus",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Rank Up Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/marcus-face.webp",
+        "description":  "A Mental DPS who marks one enemy with Annotate every round, bosses first, and hits it harder: From the Lantern gets 75% extra and the Ultimate 200% extra against it."
+    },
+    {
+        "id":  "ms-newbabel",
+        "name":  "Ms. NewBabel",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "Shield Riposte",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ms-newbabel-face.webp",
+        "description":  "A DEF-scaling tank."
+    },
+    {
+        "id":  "charlie",
+        "name":  "Charlie",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/charlie-face.webp",
+        "description":  "A Mental DPS whose attacks swing with HP."
+    },
+    {
+        "id":  "buddy-fairchild",
+        "name":  "Buddy Fairchild",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Ritual",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/buddy-fairchild-face.webp",
+        "description":  "A stack-and-dump DPS."
+    },
+    {
+        "id":  "getian",
+        "name":  "Getian",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "Support Channel Eureka Array",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/getian-face.webp",
+        "description":  "A Reality-team support that marks enemies with Shape of Bones through Old Bones, the Ultimate, and a random enemy each round at Insight 3."
+    },
+    {
+        "id":  "yenisei",
+        "name":  "Yenisei",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "Heal Immunity",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/3082-face.webp",
+        "description":  "Yenisei heals and protects."
+    },
+    {
+        "id":  "spathodea",
+        "name":  "Spathodea",
+        "tier":  "B",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Burn",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/spathodea-face.webp",
+        "description":  "A single-target crit dealer."
+    },
+    {
+        "id":  "necrologist",
+        "name":  "Necrologist",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/necrologist-face.webp",
+        "description":  "A damage buffer: the Ultimate gives every other ally 30% more damage for 3 rounds along with a Prayer stack, and heals anyone who already had Prayer."
+    },
+    {
+        "id":  "zima",
+        "name":  "Zima",
+        "tier":  "B",
+        "rarity":  4,
+        "afflatus":  "Plant",
+        "role_tags":  "Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/3013-face.webp",
+        "description":  "A control support: Sparrow Silences a target for 2 rounds, the Ultimate hits every enemy and Seals the main target for 2, and Paper gives all allies 25% more DMG Dealt and 25% DMG Heal for 3 rounds."
+    },
+    {
+        "id":  "x",
+        "name":  "X",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Remove Buffs Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/x-face.webp",
+        "description":  "Karakter Arcanist berelemen Intellect dengan peran DPS Remove Buffs Control."
+    },
+    {
+        "id":  "baby-blue",
+        "name":  "Baby Blue",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/baby-blue-face.webp",
+        "description":  "A debuffer first."
+    },
+    {
+        "id":  "click",
+        "name":  "Click",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/click-face.webp",
+        "description":  "A Mental DPS with disruption on both attacks: The Onlooker blinds for 2 rounds and The Witness knocks 2 Moxie off the target."
+    },
+    {
+        "id":  "matilda",
+        "name":  "Matilda",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/matilda-bouanich-face.webp",
+        "description":  "A simple Mental DPS."
+    },
+    {
+        "id":  "blonney",
+        "name":  "Blonney",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/blonney-face.webp",
+        "description":  "A crit-focused Reality DPS."
+    },
+    {
+        "id":  "diggers",
+        "name":  "Diggers",
+        "tier":  "B",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/diggers-face.webp",
+        "description":  "A control-and-debuff unit: Bubblism lowers every enemy\u0027s Reality and Mental DEF by 15% and puts Terror on the main target, and the Ultimate inflicts Nightmare for a round, or two if the target is already debuffed."
+    },
+    {
+        "id":  "bette",
+        "name":  "Bette",
+        "tier":  "B",
+        "rarity":  3,
+        "afflatus":  "Mineral",
+        "role_tags":  "Shield Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/bette-face.webp",
+        "description":  "A single-target protector."
+    },
+    {
+        "id":  "pavia",
+        "name":  "Pavia",
+        "tier":  "B",
+        "rarity":  4,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/pavia-face.webp",
+        "description":  "Both of Pavia\u0027s attacks hit two enemies, and which one hits harder depends on Pavia\u0027s own HP: Dirty Thing gets an extra 125% above half health, Poor Sod an extra 100% below it."
+    },
+    {
+        "id":  "eagle",
+        "name":  "Eagle",
+        "tier":  "B",
+        "rarity":  4,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/eagle-face.webp",
+        "description":  "A 4-star Reality DPS."
+    },
+    {
+        "id":  "twins-sleep",
+        "name":  "Twins Sleep",
+        "tier":  "B",
+        "rarity":  3,
+        "afflatus":  "Spirit",
+        "role_tags":  "Support Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/twins-sleep-face.webp",
+        "description":  "Twins Sleep is mostly debuffs: Hide and Seek gives every enemy 2 stacks of Weakness and cuts their Crit DEF by 40% for 2 rounds, and Pincer Movement lowers one target\u0027s Mental DEF by 35% for 3."
+    },
+    {
+        "id":  "tennant",
+        "name":  "Tennant",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "Shield Support Bullet",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/tennant-face.webp",
+        "description":  "Tennant\u0027s A Bouquet of Galaxy shields every ally for 200% of ATK and cuts their damage taken by 20% while the shield holds, though only for 1 round."
+    },
+    {
+        "id":  "shamane",
+        "name":  "Shamane",
+        "tier":  "C",
+        "rarity":  6,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Ritual Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/shamane-face.webp",
+        "description":  "Shamane\u0027s strongest tool is Spirit Medium, which makes every enemy take 30% more damage and lowers their Reality and Mental DEF by 15% for 3 rounds."
+    },
+    {
+        "id":  "kaalaa-baunaa",
+        "name":  "Kaalaa Baunaa",
+        "tier":  "C",
+        "rarity":  6,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS \u003cnobr\u003eFollow-Up\u003c/nobr\u003e",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/kaalaa-baunaa-face.webp",
+        "description":  "Juggles three kinds of Planet: Saturn from Enchanted Strike adds Penetration, Mars from Mythical Meteors adds Leech Rate, and Full Moon from the Ultimate adds Incantation Might, with room for 3 at a time."
+    },
+    {
+        "id":  "alexios",
+        "name":  "Alexios",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Ritual Assassination",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/alexios-face.webp",
+        "description":  "A Reality DPS who builds Adrenaline from single-target hits and crits, then cashes in with an Ultimate that counts as an Assassination."
+    },
+    {
+        "id":  "lorelei",
+        "name":  "Lorelei",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Star",
+        "role_tags":  "Support DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/lorelei-face.webp",
+        "description":  "A support whose effects read your Spelldock."
+    },
+    {
+        "id":  "name-day",
+        "name":  "Name Day",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "Support Ritual Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/name-day-face.webp",
+        "description":  "A buffer for the ally in front."
+    },
+    {
+        "id":  "paper-heron",
+        "name":  "Paper Heron",
+        "tier":  "C",
+        "rarity":  6,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Inspiration Support Array Eureka",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/paper-heron-face.webp",
+        "description":  "A Plant damage dealer built around Eureka and Impromptu Incantation."
+    },
+    {
+        "id":  "la-source",
+        "name":  "La Source",
+        "tier":  "C",
+        "rarity":  3,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/la-source-face.webp",
+        "description":  "A straightforward 3-star healer."
+    },
+    {
+        "id":  "barbara",
+        "name":  "Barbara",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Spirit",
+        "role_tags":  "Shield Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/barbara-face.webp",
+        "description":  "A shielder: Chat on the Lawn covers the whole team with a shield worth 300% of Barbara\u0027s ATK, and the Ultimate adds another for 3 rounds while entering Dream Visit."
+    },
+    {
+        "id":  "loggerhead",
+        "name":  "Loggerhead",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/loggerhead-face.webp",
+        "description":  "A debuff-spreading support: A Must-See!"
+    },
+    {
+        "id":  "sweetheart",
+        "name":  "Sweetheart",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/sweetheart-face.webp",
+        "description":  "Sweetheart spreads Enchanted, one stack on any enemy who attacks Sweetheart or gets hit by Sweetheart, and a second stack if that enemy is the opposite gender."
+    },
+    {
+        "id":  "leilani",
+        "name":  "Leilani",
+        "tier":  "C",
+        "rarity":  3,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/leilani-face.webp",
+        "description":  "A 3-star who hands out Moxie: the whole team gets 1 at the start of battle (Leilani gets 2), and the Ultimate gives every other ally 1 more."
+    },
+    {
+        "id":  "horropedia",
+        "name":  "Horropedia",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Support Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/horropedia-face.webp",
+        "description":  "A Mental DPS who pairs a dispel with a payoff: Logic Dictates strips the target\u0027s buffs, then Sideshow deals 150% extra to targets with no buffs."
+    },
+    {
+        "id":  "kanjira",
+        "name":  "Kanjira",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Poison Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/kanjira-face.webp",
+        "description":  "A Mental DPS who rotates through three Fortunes, one per round: Emerald adds a second Poison to Hey, Punji!, Pearl adds Confusion to Oh, Divination!, and Agate gives the Ultimate another 15% Ultimate Might."
+    },
+    {
+        "id":  "white-rum",
+        "name":  "White Rum",
+        "tier":  "C",
+        "rarity":  4,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Shift Control Channel",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/white-rum-face.webp",
+        "description":  "White Rum is built around moving."
+    },
+    {
+        "id":  "brimley",
+        "name":  "Brimley",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "Support Extra Action Remove Debuffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/brimley-face.webp",
+        "description":  "Pairs up with one ally through Hop On!, which grants Riding Double and cleanses 2 extra debuff types from them."
+    },
+    {
+        "id":  "cristallo",
+        "name":  "Cristallo",
+        "tier":  "C",
+        "rarity":  4,
+        "afflatus":  "Mineral",
+        "role_tags":  "Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/cristallo-face.webp",
+        "description":  "A budget support."
+    },
+    {
+        "id":  "erick",
+        "name":  "Erick",
+        "tier":  "C",
+        "rarity":  4,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/erick-face.webp",
+        "description":  "A 4-star dispeller."
+    },
+    {
+        "id":  "ulu",
+        "name":  "Ulu",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Burn Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ulu-face.webp",
+        "description":  "Ulu spreads Burn, 3 stacks on every enemy at the start of each round and 3 more on two targets with Beating Heart."
+    },
+    {
+        "id":  "satsuki",
+        "name":  "Satsuki",
+        "tier":  "C",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/satsuki-face.webp",
+        "description":  "Satsuki stacks Rigidity: one stack on every enemy at the start of battle, then 2 more on a single target from both Handcuffed Thief and the 550% Ultimate."
+    },
+    {
+        "id":  "mondlicht",
+        "name":  "Mondlicht",
+        "tier":  "C",
+        "rarity":  4,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS Bullet",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/mondlicht-face.webp",
+        "description":  "A 4-star Reality DPS with two attacks for opposite situations: A Silver Bullet gets 125% extra on targets above half HP and A Dance gets the same on targets below it."
+    },
+    {
+        "id":  "reed",
+        "name":  "Reed",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Plant",
+        "role_tags":  "Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/reed-face.webp",
+        "description":  "Karakter Arcanist berelemen Plant dengan peran Support."
+    },
+    {
+        "id":  "oliver-fog",
+        "name":  "Oliver Fog",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/oliver-fog-face.webp",
+        "description":  "A self-sustaining 4-star."
+    },
+    {
+        "id":  "avgust",
+        "name":  "Avgust",
+        "tier":  "D",
+        "rarity":  5,
+        "afflatus":  "Plant",
+        "role_tags":  "Heal Support Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/3078-face.webp",
+        "description":  "A position-based support: allies in front of Avgust get damage buffs, allies behind get healing and damage reduction."
+    },
+    {
+        "id":  "desert-flannel",
+        "name":  "Desert Flannel",
+        "tier":  "D",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "Support DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/desert-flannel-face.webp",
+        "description":  "A Beast-team support."
+    },
+    {
+        "id":  "nick-bottom",
+        "name":  "Nick Bottom",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Beast",
+        "role_tags":  "Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/nick-bottom-face.webp",
+        "description":  "A single-ally protector."
+    },
+    {
+        "id":  "apple",
+        "name":  "APPLe",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Star",
+        "role_tags":  "Heal",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/apple-face.webp",
+        "description":  "A damage dealer with a bit of healing on the side."
+    },
+    {
+        "id":  "mr-duncan",
+        "name":  "Mr. Duncan",
+        "tier":  "D",
+        "rarity":  5,
+        "afflatus":  "Beast",
+        "role_tags":  "DPS Riposte Bullet",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/mr-duncan-face.webp",
+        "description":  "A Bullet-based finisher."
+    },
+    {
+        "id":  "the-fool",
+        "name":  "The Fool",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Star",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/the-fool-face.webp",
+        "description":  "A taunting tank that punishes attackers: the counter makes anyone who hits The Fool take Corrode for 2 rounds, worth 35% of their current HP per round, capped at 35% of The Fool\u0027s Max HP."
+    },
+    {
+        "id":  "door",
+        "name":  "Door",
+        "tier":  "D",
+        "rarity":  2,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/door-face.webp",
+        "description":  "A sacrificial support."
+    },
+    {
+        "id":  "alien-t",
+        "name":  "aliEn T",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/alien-t-face.webp",
+        "description":  "A 3-star that can tank or open fights."
+    },
+    {
+        "id":  "rabies",
+        "name":  "Rabies",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Plant",
+        "role_tags":  "DPS Poison",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/rabies-face.webp",
+        "description":  "Every attack Rabies lands poisons the target for a round, dealing 30% of ATK as Genesis damage when the round ends."
+    },
+    {
+        "id":  "poltergeist",
+        "name":  "Poltergeist",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Spirit",
+        "role_tags":  "Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/poltergeist-face.webp",
+        "description":  "Poltergeist deals single-target Mental damage and softens one enemy with a 35% Mental DEF cut for 3 rounds."
+    },
+    {
+        "id":  "darley-clatter",
+        "name":  "Darley Clatter",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Beast",
+        "role_tags":  "Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/darley-clatter-face.webp",
+        "description":  "A 3-star support whose Ultimate gives every other ally 1 Moxie and 30% more damage for 3 rounds."
+    },
+    {
+        "id":  "mesmer-jr",
+        "name":  "Mesmer Jr.",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Intellect",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/mesmer-jr-face.webp",
+        "description":  "A 4-star with a bit of everything: Magnetic Current hits for 450% and strips the target\u0027s buffs, Inhibition Ring gives the team 20% Mental DEF and 2 Stabilize stacks, and the Ultimate paralyzes every enemy, with an extra stack on the main target."
+    },
+    {
+        "id":  "ttt",
+        "name":  "TTT",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Control Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ttt-face.webp",
+        "description":  "TTT\u0027s niche is removing enemy counters: Cyber Defense hits for 440% and dispels every Counter on the target."
+    },
+    {
+        "id":  "ms-radio",
+        "name":  "Ms. Radio",
+        "tier":  "D",
+        "rarity":  2,
+        "afflatus":  "Spirit",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ms-radio-face.webp",
+        "description":  "A 2-star who trades her life for disruption."
+    },
+    {
+        "id":  "pioneer",
+        "name":  "Pioneer",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Spirit",
+        "role_tags":  "Shield Shift Support",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/pioneer-face.webp",
+        "description":  "A position-shifting support whose buff changes with the slot Pioneer lands in, from Hot Deal in the first position to After-Sales Service in the fourth."
+    },
+    {
+        "id":  "ms-moissan",
+        "name":  "Ms. Moissan",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Mineral",
+        "role_tags":  "Shield Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/ms-moissan-face.webp",
+        "description":  "A 4-star shielder with a freeze."
+    },
+    {
+        "id":  "bunny-bunny",
+        "name":  "Bunny Bunny",
+        "tier":  "D",
+        "rarity":  4,
+        "afflatus":  "Beast",
+        "role_tags":  "Heal Remove Debuffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/bunny-bunny-face.webp",
+        "description":  "A light healer whose one real heal is the Ultimate: it cleanses Stats Down, Neg Status and Control from every ally and restores HP equal to 200% of ATK."
+    },
+    {
+        "id":  "sputnik",
+        "name":  "Sputnik",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Star",
+        "role_tags":  "DPS Control",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/sputnik-face.webp",
+        "description":  "A defensive controller."
+    },
+    {
+        "id":  "john-titor",
+        "name":  "John Titor",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Intellect",
+        "role_tags":  "Shield Remove Debuffs Remove Buffs",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/john-titor-face.webp",
+        "description":  "A 3-star utility pick."
+    },
+    {
+        "id":  "onion",
+        "name":  "ONiON",
+        "tier":  "D",
+        "rarity":  3,
+        "afflatus":  "Mineral",
+        "role_tags":  "DPS",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/chars/onion-face.webp",
+        "description":  "A 3-star single-target damage dealer whose two attacks each want a condition: Not Fake News adds 100% against debuffed or controlled enemies, and Just A Show adds 150% once the target is under half HP."
+    }
+]

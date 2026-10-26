@@ -1,0 +1,758 @@
+[
+    {
+        "id":  "a-dream-beyond-light",
+        "name":  "A Dream Beyond Light",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier is a [Mineral] character, gains Healing Done +12%. For each Conduit Energy consumed by allies, all allies gain Critical DMG +0.8% for 3 rounds, up to 16 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1573.webp"
+    },
+    {
+        "id":  "a-tingle-of-a-thought",
+        "name":  "A Tingle of a Thought",
+        "rarity":  6,
+        "passive":  "If the carrier is an [Intellect] character, after casting a Channel incantation, ATK +1%, up to 3 stacks. At the end of the round, for every time the team transfers [Dynamo], the carrier gains Critical DMG +1.2%, up to 16 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1550.webp"
+    },
+    {
+        "id":  "across-the-acheron",
+        "name":  "Across the Acheron",
+        "rarity":  6,
+        "passive":  "When entering battle, for each [Beast] ally present (including the carrier), the carrier gains Ultimate Might +4%, stacking up to 4 times. At the start of the round, for each type of Bullet carried, the carrier gains DMG Dealt +2% for the round, stacking up to 6 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1562.webp"
+    },
+    {
+        "id":  "addio-coda",
+        "name":  "Addio Coda",
+        "rarity":  6,
+        "passive":  "When an ally consumes Eureka, accumulate points of [Inspiration]. Whenever an ally consumes 1 Eureka, all allies gain DMG Dealt +0.3%, stacking up to 20 times; if the carrier is of the [Star] afflatus, after taking an action, [Impromptu Incantation] gains attack instance +1 for the round, this effect can trigger up to 1 times per round.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1540.webp"
+    },
+    {
+        "id":  "all-honor-is-but-dust",
+        "name":  "All Honor is but Dust",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if it is a follow-up attack, DMG Dealt +8%. When the carrier casts an Ultimate, if it is a follow-up attack, all allies gain Incantation Might +6% for 3 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1564.webp"
+    },
+    {
+        "id":  "an-epic-s-end",
+        "name":  "An Epic\u0027s End",
+        "rarity":  6,
+        "passive":  "When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt +1% for this attack. When any ally triggers an [Assassination], if the carrier owns [Force Field], all allies gain DMG Dealt +1%, up to 6 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1552.webp"
+    },
+    {
+        "id":  "and-the-maid-says",
+        "name":  "And the Maid Says",
+        "rarity":  6,
+        "passive":  "The [Array] deployed by the carrier grants [Poison] DMG Dealt +4% to all allies and an additional [Poison] DMG Dealt +4% to the carrier. These effects are removed after the Array ends or is replaced.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1533.webp"
+    },
+    {
+        "id":  "another-story",
+        "name":  "Another Story",
+        "rarity":  6,
+        "passive":  "After the carrier casts a rank 2/3 incantation, DMG Dealt +1%/2%, stacking up to +8%. When the carrier consumes 2 or more Eureka within a round, gain Incantation Might +10% until the end of the round.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1524.webp"
+    },
+    {
+        "id":  "approaching-rain",
+        "name":  "Approaching Rain",
+        "rarity":  6,
+        "passive":  "Right after the carrier uses a 1-target counter ultimate, they get DMG Heal +10% for 2 rounds; the carrier\u0027s Ripostes deal Genesis DMG +30%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1529.webp"
+    },
+    {
+        "id":  "as-the-bell-tolls",
+        "name":  "As the Bell Tolls",
+        "rarity":  6,
+        "passive":  "When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt +1% for this attack. When triggering an [Assassination], if the attack aims at 1 target, gains Critical DMG +6%, up to 3 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1551.webp"
+    },
+    {
+        "id":  "aurora-after-winter",
+        "name":  "Aurora After Winter",
+        "rarity":  6,
+        "passive":  "When the carrier casts a Buff incantation, gain ATK +0.4%, stacks up to 10 times. If the carrier is of the [Star] afflatus, for every 1 Eureka consumed by allies, grant Critical DMG +0.4% to all allies, stacks up to 30 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1547.webp"
+    },
+    {
+        "id":  "balance-please",
+        "name":  "Balance, Please",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if they do not have an Afflatus advantage over the enemy, DMG Dealt +6%. If the carrier\u0027s Afflatus is of the Primal Afflatus, this effect is increased to 12%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1514.webp"
+    },
+    {
+        "id":  "beyond-wonderland",
+        "name":  "Beyond Wonderland",
+        "rarity":  6,
+        "passive":  "After the carrier uses a debuff incantation, the carrier\u0027s healing rate increases by 3%. This effect can stack up to 4 times. Increases carrier\u0027s Critical Rate by 7%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1511.webp"
+    },
+    {
+        "id":  "bitter-march-of-the-living",
+        "name":  "Bitter March of the Living",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if under [Pulsing Field Lv.3], they gain Ultimate Might +12%. After the carrier casts a 1-target incantation, they gain DMG Dealt +1.4%, stackable up to 6 times; removes all stacks after using a mass incantation.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1557.webp"
+    },
+    {
+        "id":  "blasphemer-of-night",
+        "name":  "Blasphemer of Night",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if the target has 2 or more [Neg Status], DMG Dealt +12%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1504.webp"
+    },
+    {
+        "id":  "brave-new-world",
+        "name":  "Brave New World",
+        "rarity":  6,
+        "passive":  "After the carrier casts an Ultimate, Incantation Might of the next incantation +20%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1501.webp"
+    },
+    {
+        "id":  "buds-yet-to-bloom",
+        "name":  "Buds Yet to Bloom",
+        "rarity":  6,
+        "passive":  "If the carrier is a [Spirit] character and in [Channel] status when attacking, DMG Dealt +8%. At the end of the round, if the carrier transfers [Dynamo] into the [Pulsing Field] at least 1 time for the round, all allies gain Critical DMG +4%, up to 3 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1554.webp"
+    },
+    {
+        "id":  "cracks-in-the-shell",
+        "name":  "Cracks in the Shell",
+        "rarity":  6,
+        "passive":  "After the carrier performs an extra action, gain Healing Done +4%, stacks up to 3 times. After the carrier is attacked or shares damage, all allies gain Critical DMG +1.2% for 3 rounds, stacks up to 12 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1541.webp"
+    },
+    {
+        "id":  "dawn-is-coming",
+        "name":  "Dawn Is Coming",
+        "rarity":  6,
+        "passive":  "After the carrier casts a 1-target buff-type incantation, recover (own ATK x24%) HP for the ally with the lowest HP percentage (triggers only 1 time per round).",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1525.webp"
+    },
+    {
+        "id":  "drown-out-the-hustle",
+        "name":  "Drown Out the Hustle",
+        "rarity":  6,
+        "passive":  "If the carrier is a [Plant] character, after they perform an extra action attack, they gain Genesis DMG Dealt +2%, stacking up to 3 times. After an ally casts a rewritten incantation, inflicts [Poison] DMG Taken +1% on all enemies for 3 rounds, stacking up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1566.webp"
+    },
+    {
+        "id":  "embrace-the-past",
+        "name":  "Embrace the Past",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier is a [Spirit] character, Max HP +5%. When the carrier takes DMG, Critical Rate +1% at the end of the round, up to 16 stacks. When the carrier attacks, if below 80% HP and at no less than 50 Max Bloodtithe points, Critical DMG +24%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1548.webp"
+    },
+    {
+        "id":  "family-mentor",
+        "name":  "Family Mentor",
+        "rarity":  6,
+        "passive":  "After launching a Riposte, the carrier gains Ultimate Might +4%, up to 3 stacks. If the carrier is a [Beast] character, for every 1 Moxie the team consumes, all allies gain Critical DMG +0.4%, up to 30 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1549.webp"
+    },
+    {
+        "id":  "for-rehabilitation",
+        "name":  "For Rehabilitation",
+        "rarity":  6,
+        "passive":  "When the carrier is a [Star] character, Incantation Might +5%. Within the same round after they cast an ultimate, each of their 1-target attack-type incantations grants DMG Dealt +4% for the rest of the battle, stacking up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1526.webp"
+    },
+    {
+        "id":  "from-the-depths",
+        "name":  "From the Depths",
+        "rarity":  6,
+        "passive":  "If the carrier is of the [Mineral] afflatus, and whenever allies lose HP three or more times as the carrier takes a single action, the carrier gains the [Echoes of Life] status afterward to until the end of battle (triggers only 1 time per battle). If the carrier is of the [Mineral] afflatus, and whenever any allied character loses HP as an ally takes an action, the carrier gains Incantation Might +0.9%, stackable up to 10 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1530.webp"
+    },
+    {
+        "id":  "her-second-life",
+        "name":  "Her Second Life",
+        "rarity":  6,
+        "passive":  "After the carrier casts the mass Ultimate, HP +(the carrier\u0027s ATK x32%) for all allies.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1503.webp"
+    },
+    {
+        "id":  "her-willful-leap",
+        "name":  "Her Willful Leap",
+        "rarity":  6,
+        "passive":  "If the carrier is a [Beast] character, after casting a Channel incantation, grants DMG Bonus +8% to all allies for 1 round. When the carrier attacks, if it\u0027s an extra action, gains Ultimate Might +4% for 1 round, stacking up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1559.webp"
+    },
+    {
+        "id":  "his-bounden-duty",
+        "name":  "His Bounden Duty",
+        "rarity":  6,
+        "passive":  "For each enemy target defeated by the carrier, HP +(the carrier\u0027s ATK x60%).",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1510.webp"
+    },
+    {
+        "id":  "homecoming-lament",
+        "name":  "Homecoming Lament",
+        "rarity":  6,
+        "passive":  "If the carrier is a [Mineral] character and the team is at 50 points of Max [Bloodtithe] or above when they attack, DMG Dealt +8%. Each time the carrier takes damage, Critical DMG +2% at the end of the round, up to 9 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1553.webp"
+    },
+    {
+        "id":  "hopscotch",
+        "name":  "Hopscotch",
+        "rarity":  6,
+        "passive":  "For each enemy target defeated by the carrier, Ultimate Might +4% for the carrier. Stacks up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1502.webp"
+    },
+    {
+        "id":  "into-the-gentle-current",
+        "name":  "Into the Gentle Current",
+        "rarity":  6,
+        "passive":  "At the start of the round, if the carrier is a [Mineral] character, gains Ultimate Might +4%, up to 3 stacks. When casting Ultimate, if the current [Bloodtithe] limit is at least 50, gains Critical DMG +16%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1555.webp"
+    },
+    {
+        "id":  "knock-on-the-door",
+        "name":  "Knock on the Door",
+        "rarity":  6,
+        "passive":  "When the carrier attacks a target enemy that\u0027s in the [Burn] status, DMG Dealt +6%. When the carrier\u0027s extra action is a mass attack, Incantation Might +4%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1523.webp"
+    },
+    {
+        "id":  "long-night-talk",
+        "name":  "Long Night Talk",
+        "rarity":  6,
+        "passive":  "When the Carrier has 2 or more [Pos Status] buffs, DMG Dealt +8% when attacking. When the Carrier uses a Buff Incantation, gain ATK +2%, stacks up to 2 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1515.webp"
+    },
+    {
+        "id":  "luxurious-leisure",
+        "name":  "Luxurious Leisure",
+        "rarity":  6,
+        "passive":  "After the carrier casts a 1-target Ultimate, DMG Dealt +5%, up to 3 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1509.webp"
+    },
+    {
+        "id":  "mental-cage",
+        "name":  "Mental Cage",
+        "rarity":  6,
+        "passive":  "When allies have casted more than 4 incantations in a single round, each additional cast grants DMG Dealt +3% to all allies for 1 round, stacks up to 3 times; If the carrier is of the [Intellect] afflatus, each Eureka consumed by allies grants Incantation Might +0.2% to all allies, stacks up to 30 times; when entering battle, gain Eureka +2 for self.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1545.webp"
+    },
+    {
+        "id":  "never-ending-q-a",
+        "name":  "Never-Ending Q\u0026A",
+        "rarity":  6,
+        "passive":  "After the carrier casts a 1-target ultimate, gain Ultimate Might +3%, stacks up to 4 times. After the carrier casts a mass ultimate, gain Critical DMG +6%, stacks up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1546.webp"
+    },
+    {
+        "id":  "offbeat-strides",
+        "name":  "Offbeat Strides",
+        "rarity":  6,
+        "passive":  "When entering battle, gain 1 Moxie. For each point of Moxie the carrier consumes, gain Genesis DMG Dealt +0.4% and DMG Taken -0.4%, stacking up to 25 times. At the end of the round, if the carrier is in a channel status, the carrier gains Poison DMG Dealt +2%, stacking up to 5 times, this effect lasts 3 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1538.webp"
+    },
+    {
+        "id":  "on-the-hand-of-time",
+        "name":  "On the Hand of Time",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if the carrier is in a channel status, the attack gains Penetration Rate +14%. When the carrier performs an extra action, the carrier gains Critical DMG +6%, stacking up to 3 times, with 1 stack removed at the end of each round.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1539.webp"
+    },
+    {
+        "id":  "outside-the-city",
+        "name":  "Outside the City",
+        "rarity":  6,
+        "passive":  "After the carrier launches a 1-target attack through an extra action, Critical DMG +2%, up to 10 stacks. At 10 stacks, gain extra Critical Rate +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1521.webp"
+    },
+    {
+        "id":  "ready-on-call",
+        "name":  "Ready on Call",
+        "rarity":  6,
+        "passive":  "When performing an extra action, if the carrier has actively casted a 1-target attack incantation this round, gain Critical Rate +1%, stacks up to 6 times. When performing an extra action, if the carrier has actively casted a 1-target buff incantation this round, gain Critical DMG +2%, stacks up to 6 times. When both of these effects have reached their maximum stacks, their stat bonuses are doubled.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1542.webp"
+    },
+    {
+        "id":  "rehearsal-of-dreams",
+        "name":  "Rehearsal of Dreams",
+        "rarity":  6,
+        "passive":  "When the carrier is a [Plant] character, for each [Neg Status] effect inflicted when actively casting an incantation, gain Ultimate Might +1%, stacks up to 12 times. When the carrier casts an ultimate, for each type of [Stats Down], [Neg Status], or [Control] effect on the target, gain DMG Dealt +3%, up to 4 types can count toward this effect.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1543.webp"
+    },
+    {
+        "id":  "same-old-story",
+        "name":  "Same Old Story",
+        "rarity":  6,
+        "passive":  "When the carrier is a [Beast] character, Penetration Rate +5%. When the carrier is in [Channel] status, DMG Dealt +12% for their Mass Attacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1522.webp"
+    },
+    {
+        "id":  "shadows-in-the-subconscious",
+        "name":  "Shadows in the Subconscious",
+        "rarity":  6,
+        "passive":  "When the carrier attacks an enemy afflicted with [Burn], DMG Dealt +8%. At the start of the round, if there are at least 120 points of [Lingering Glow], grants Critical DMG +12% to all allies for 1 round.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1560.webp"
+    },
+    {
+        "id":  "silent-and-adoring",
+        "name":  "Silent and Adoring",
+        "rarity":  6,
+        "passive":  "When the carrier takes an extra action, Damage Dealt +12%. Genesis DMG through extra actions +10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1513.webp"
+    },
+    {
+        "id":  "singleness-of-heart",
+        "name":  "Singleness of Heart",
+        "rarity":  6,
+        "passive":  "When an ally is attacked by an enemy under the [Burn] status, DMG Dealt -2% for that attack. After the carrier casts an Ultimate, if at 120 points of [Lingering Glow] or above, all allies gain Critical DMG +12% for 3 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1561.webp"
+    },
+    {
+        "id":  "starlight-wellspring",
+        "name":  "Starlight Wellspring",
+        "rarity":  6,
+        "passive":  "If the carrier has both [Stats Up] and [Force Field] at the same time, gain Critical Rate +12% when attacking. If the carrier is of the Primal Afflatus, each time after a mass buff incantation is cast, gain Incantation Might +2.5% and Ultimate Might +2.5%, stackable up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1532.webp"
+    },
+    {
+        "id":  "steps-forward",
+        "name":  "Steps Forward",
+        "rarity":  6,
+        "passive":  "If the carrier\u0027s afflatus is [Intellect], Critical Rate is increased by 6%. If they hold 2 or more types of [Special] effects, Incantation Might is increased by 6% when attacking. In addition, if the carrier also has [Force Field], Incantation Might is instead increased by 12% when attacking, and Critical Rate is increased by a further 3% when attacking.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1527.webp"
+    },
+    {
+        "id":  "stray-off-the-path",
+        "name":  "Stray Off the Path",
+        "rarity":  6,
+        "passive":  "After the carrier actively casts a 1-target incantation, their next extra action within the round gains Incantation Might +12%. After the carrier casts a 1-target incantation, the carrier gains Critical DMG +6% (stacks up to 3 times, removed after casting a mass incantation).",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1534.webp"
+    },
+    {
+        "id":  "that-inquisitive-dear",
+        "name":  "That Inquisitive Dear",
+        "rarity":  6,
+        "passive":  "When the carrier casts a basic Incantation debuff, HP +(the carrier\u0027s ATK x24%) for the ally with the lowest HP percentage (only triggers 1 time per round).",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1508.webp"
+    },
+    {
+        "id":  "the-art-of-atoms",
+        "name":  "The Art of Atoms",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if the carrier is also equipped with [The Dance of Science], Critical DMG +18%. If the carrier is a Star character, Conduit Might +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1571.webp"
+    },
+    {
+        "id":  "the-carat-of-a-heart",
+        "name":  "The Carat of a Heart",
+        "rarity":  6,
+        "passive":  "When the round ends, if the carrier gained at least 3 Moxie in the round, Ultimate Might +8% when casting the next Ultimate. If the carrier gained at least 4 Moxie in the round, this effect is increased to +12%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1512.webp"
+    },
+    {
+        "id":  "the-dance-of-science",
+        "name":  "The Dance of Science",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if the carrier is also equipped with [The Art of Atoms], Critical Rate +12%. If the carrier is a Mineral character, DMG Dealt +12%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1572.webp"
+    },
+    {
+        "id":  "the-fighter-s-best-wishes",
+        "name":  "The Fighter\u0027s Best Wishes",
+        "rarity":  6,
+        "passive":  "At the start of the round, if the carrier\u0027s current HP is below 60%, they get DMG Taken -10%; when the carrier attacks, they get Genesis DMG Dealt +7%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1528.webp"
+    },
+    {
+        "id":  "the-final-roll",
+        "name":  "The Final Roll",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, for each point of Moxie held, the attack gains Ultimate Might +1.2%. If the carrier is of the [Mineral] afflatus, for each point of Moxie consumed, gain Critical DMG +1%, stacks up to 16 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1544.webp"
+    },
+    {
+        "id":  "the-fluttering-moment",
+        "name":  "The Fluttering Moment",
+        "rarity":  6,
+        "passive":  "At the end of the round, if there are at least 120 points of [Lingering Glow], grants Critical DMG +6% to all allies for 2 rounds. When an ally attacks with a rewritten incantation, grants DMG Dealt +2% to all allies for 3 rounds, stacking up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1565.webp"
+    },
+    {
+        "id":  "the-riddle-s-limit",
+        "name":  "The Riddle\u0027s Limit",
+        "rarity":  6,
+        "passive":  "At the end of the round, if the carrier has [Bastion], DMG Taken -4% for 1 round. At the end of the round, if the carrier has transferred any [Dynamo] during the round, all allies gain DMG Dealt +2%, up to 3 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1567.webp"
+    },
+    {
+        "id":  "the-silent-anthem",
+        "name":  "The Silent Anthem",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier is a [Mineral] character, gains DMG Dealt +8%. For each Conduit Energy consumed among all allies, grants Conduit Might +0.6% to all allies for 3 rounds, stacking up to 16 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1570.webp"
+    },
+    {
+        "id":  "the-soft-rain-of-yesterday",
+        "name":  "The Soft Rain of Yesterday",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier is an [All-Rounder] character, gains ATK +4% and Max HP +4%. After the carrier actively casts an incantation, grants DMG Dealt +1.2% to all allies for 3 rounds, stacking up to 6 times. If the carrier is a [Beast] character, after casting an Ultimate, grants Critical DMG +8% to all allies for 3 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1568.webp"
+    },
+    {
+        "id":  "the-third-commitment",
+        "name":  "The Third Commitment",
+        "rarity":  6,
+        "passive":  "When the carrier attacks and triggers a Bullet effect, the carrier gains Critical DMG +16% for 2 rounds. The [Array] deployed by the carrier grants an additional Incantation Might +6% and Ultimate Might +6% to all allies; these effects are removed after the Array ends or is replaced.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1537.webp"
+    },
+    {
+        "id":  "the-thousandfold-fate",
+        "name":  "The Thousandfold Fate",
+        "rarity":  6,
+        "passive":  "When the carrier attacks, if the carrier is an [Intellect] character and if there are at least 120 points of [Lingering Glow], gains Critical DMG +4%, stacking up to 6 times. When the carrier performs an extra action attack and has a [Force Field], the attack gains Incantation Might +6%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1558.webp"
+    },
+    {
+        "id":  "the-unbearable-lightness",
+        "name":  "The Unbearable Lightness",
+        "rarity":  6,
+        "passive":  "If the carrier is in the [Burn] status, when attacking, gain Incantation Might +4%; and after a mass riposte, gain ATK +1% for self, stackable up to 6 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1531.webp"
+    },
+    {
+        "id":  "the-wandering-improviser",
+        "name":  "The Wandering Improviser",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier\u0027s Afflatus is [Mineral], gains Healing Done +12%. Whenever an ally takes DMG, they gain Ultimate Might +2% at the end of the round, up to 6 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1556.webp"
+    },
+    {
+        "id":  "thunderous-applause",
+        "name":  "Thunderous Applause",
+        "rarity":  6,
+        "passive":  "When the carrier\u0027s 1-target attack scores a critical hit, Critical DMG +16%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1507.webp"
+    },
+    {
+        "id":  "tiny-wish",
+        "name":  "Tiny Wish",
+        "rarity":  6,
+        "passive":  "In battle, when an ally gets an increase in Stress, that Stress is transferred to the carrier instead. When the carrier triggers Focus or Meltdown for the first time, the carrier will trigger their Focus Behavior as well, and all allies will gain ATK +10%, DMG Taken -6%, and Stress will no longer be transferred in this way.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1535.webp"
+    },
+    {
+        "id":  "transcendent-love",
+        "name":  "Transcendent Love",
+        "rarity":  6,
+        "passive":  "When the carrier casts an incantation in the Channel status, the carrier gains Critical Rate +2% and Critical DMG +2%, stacks up to 4 times. When the carrier is bound to another ally, each time the carrier or the bound ally casts an incantation, both bound characters gain DMG Bonus +0.8%, stacks up to 10 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1536.webp"
+    },
+    {
+        "id":  "until-i-am-me",
+        "name":  "Until I Am Me",
+        "rarity":  6,
+        "passive":  "When entering battle, if the carrier is a [Mineral] character, gains Critical DMG +12%. When the carrier attacks with a [Sovereign Incantation], gains Ultimate Might +6% and Incantation Might +6%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1569.webp"
+    },
+    {
+        "id":  "wayfarer-of-the-dao",
+        "name":  "Wayfarer of the Dao",
+        "rarity":  6,
+        "passive":  "For each Eureka consumed by the team, all allies gain DMG Dealt +0.2%, up to 30 stacks. If the carrier is a [Plant] character, their deployed [Array] additionally grants Incantation Might +6% to all allies. This effect is removed after the Array ends or is replaced.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1563.webp"
+    },
+    {
+        "id":  "where-light-and-shadows-rest",
+        "name":  "Where Light and Shadows Rest",
+        "rarity":  6,
+        "passive":  "If the carrier is a [Mineral] character, gains Riposte DMG +8%. After any ally ripostes, the carrier gains Critical DMG +3% for 3 rounds, up to 6 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1574.webp"
+    },
+    {
+        "id":  "a-free-heart",
+        "name":  "A Free Heart",
+        "rarity":  5,
+        "passive":  "When the carrier is attacked and is below 50% HP, DMG Taken -10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/4103.webp"
+    },
+    {
+        "id":  "a-new-leaf",
+        "name":  "A New Leaf",
+        "rarity":  5,
+        "passive":  "When the carrier is a [Plant] character, Critical DEF +8%. When the carrier is attacked while below 40% HP, Critical Resist Rate +15%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1423.webp"
+    },
+    {
+        "id":  "a-satisfied-eater",
+        "name":  "A Satisfied Eater",
+        "rarity":  5,
+        "passive":  "Whenever the Carrier attacks at below 80% HP, Penetration Rate +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1413.webp"
+    },
+    {
+        "id":  "an-afternoon-nap",
+        "name":  "An Afternoon Nap",
+        "rarity":  5,
+        "passive":  "When the carrier\u0027s 1-target attack scores a critical hit, the carrier gains Critical DMG +3% (stacks up to 4 times).",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1407.webp"
+    },
+    {
+        "id":  "belt-it-out",
+        "name":  "Belt It Out",
+        "rarity":  5,
+        "passive":  "When entering battle, for each character present with the [Star] afflatus, including the carrier, all allied [Star] afflatus characters gain DMG Dealt +2%, stacking up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1437.webp"
+    },
+    {
+        "id":  "beyond-the-gears",
+        "name":  "Beyond the Gears",
+        "rarity":  5,
+        "passive":  "When the carrier attacks a target that\u0027s NOT in a [Pos Status] or [Stats Up] status, Critical Rate +6%, Critical DMG +6%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1425.webp"
+    },
+    {
+        "id":  "decode",
+        "name":  "Decode",
+        "rarity":  5,
+        "passive":  "When the carrier is attacked by an Ultimate, DMG Taken -10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1405.webp"
+    },
+    {
+        "id":  "dust-on-the-roadside",
+        "name":  "Dust on the Roadside",
+        "rarity":  5,
+        "passive":  "When the carrier attacks, for every 1 instance of [Poison] the target has, Penetration Rate +2%. If the carrier is a [Plant] character, Critical DMG +12%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1441.webp"
+    },
+    {
+        "id":  "faded-epitaphs",
+        "name":  "Faded Epitaphs",
+        "rarity":  5,
+        "passive":  "When entering battle, for each [Mineral] ally present (including the carrier), all [Mineral] allies gain DMG Dealt +2%, up to 4 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1443.webp"
+    },
+    {
+        "id":  "falling-for-a-sweet-phenomenon",
+        "name":  "Falling for a Sweet Phenomenon",
+        "rarity":  5,
+        "passive":  "When the carrier is a [Star] character, Critical DMG +10%. After taking an extra action, Genesis DMG Dealt +6%, stacks up to 5 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1434.webp"
+    },
+    {
+        "id":  "farewell-to-the-old-night",
+        "name":  "Farewell to the Old Night",
+        "rarity":  5,
+        "passive":  "When entering battle, if the carrier is a [Plant] character, all allies gain DMG Dealt +6% and Genesis DMG +6%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1449.webp"
+    },
+    {
+        "id":  "going-along-alone",
+        "name":  "Going Along Alone",
+        "rarity":  5,
+        "passive":  "If the carrier\u0027s afflatus is [Plant], Critical Rate +6%. When the carrier uses a 1-target ultimate to attack, Critical DMG +14%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1429.webp"
+    },
+    {
+        "id":  "greed",
+        "name":  "Greed",
+        "rarity":  5,
+        "passive":  "The desire hidden in the depths. A precious material which can be used to increase a 5-star Psychube\u0027s Amplification level by 1.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1001.webp"
+    },
+    {
+        "id":  "growing-pains",
+        "name":  "Growing Pains",
+        "rarity":  5,
+        "passive":  "If the carrier is a [Plant] character, after attacking, grants all allies Ultimate Might +2% for 3 rounds, up to 4 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1448.webp"
+    },
+    {
+        "id":  "her-bright-future",
+        "name":  "Her Bright Future",
+        "rarity":  5,
+        "passive":  "When the carrier casts an ultimate, if the carrier is in a [Stats Up] status, Ultimate Might +10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1411.webp"
+    },
+    {
+        "id":  "her-mournful-face",
+        "name":  "Her Mournful Face",
+        "rarity":  5,
+        "passive":  "The carrier gains Healing Done +8%. At the start of the round, if in the [Cure] status, gain additional DMG Taken Reduction +6%. If the carrier is of the [Plant] Afflatus, the [Poison] effects inflicted by self gain DMG Dealt +16%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1430.webp"
+    },
+    {
+        "id":  "his-tail",
+        "name":  "His Tail",
+        "rarity":  5,
+        "passive":  "When the carrier is of the Primal Afflatus, Penetration Rate +5%. When the carrier attacks a target that is below 75% HP, Penetration Rate +6%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1424.webp"
+    },
+    {
+        "id":  "in-the-shadow",
+        "name":  "In the Shadow",
+        "rarity":  5,
+        "passive":  "If the carrier\u0027s afflatus is [Mineral], they get DMG Taken -5%. After the carrier uses a buff incantation, they get ATK +0.5%. If it was a 1-target buff incantation, the ATK boost is doubled. This effect can stack up to 10%. Upon reaching the limit, the carrier gains an additional DMG Taken Reduction +3%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1428.webp"
+    },
+    {
+        "id":  "in-their-figures",
+        "name":  "In Their Figures",
+        "rarity":  5,
+        "passive":  "For each Eureka consumed by the team, grant Incantation Might +0.2% to all allies, up to 30 stacks.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1444.webp"
+    },
+    {
+        "id":  "laughter-and-laughter",
+        "name":  "Laughter and Laughter",
+        "rarity":  5,
+        "passive":  "When a round begins, Healing Done +3% for the carrier. Stacks up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/4104.webp"
+    },
+    {
+        "id":  "let-s-set-sail",
+        "name":  "Let\u0027s Set Sail",
+        "rarity":  5,
+        "passive":  "When the carrier attacks a target that\u0027s with a [Stats Down] status, Critical DMG +14%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1421.webp"
+    },
+    {
+        "id":  "luck-be-a-lady",
+        "name":  "Luck Be a Lady",
+        "rarity":  5,
+        "passive":  "When the carrier attacks with a rank 1/2/3 incantation, Ultimate Might +8%/12%/18%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1447.webp"
+    },
+    {
+        "id":  "melodies-old-and-new",
+        "name":  "Melodies Old and New",
+        "rarity":  5,
+        "passive":  "When entering battle, gain Healing Done +12%. At the start of the round, all allies gain DMG Dealt +1%, stacks up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1440.webp"
+    },
+    {
+        "id":  "night-after-night",
+        "name":  "Night After Night",
+        "rarity":  5,
+        "passive":  "When the carrier is below 80% current HP, gain DMG Dealt +6%. When the carrier is not afflicted with [Stats Down], gain Incantation Might +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1426.webp"
+    },
+    {
+        "id":  "off-the-scene",
+        "name":  "Off the Scene",
+        "rarity":  5,
+        "passive":  "After the carrier casts a buff-type incantation, all allies gain DMG Dealt +1%, stacks up to 5 times. If the carrier is of the [Mineral] afflatus, gain Reality DEF +18%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1439.webp"
+    },
+    {
+        "id":  "one-with-the-flow",
+        "name":  "One with the Flow",
+        "rarity":  5,
+        "passive":  "After the carrier actively casts an incantation, if the carrier has a [Force Field], there\u0027s a 24% chance to gain 1 Moxie. For 3 rounds after the carrier casts an ultimate, when an ally casts a rank 2/3 incantation, DMG Dealt +6%/8% for that ally.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1436.webp"
+    },
+    {
+        "id":  "parting-s-quiet-lament",
+        "name":  "Parting\u0027s Quiet Lament",
+        "rarity":  5,
+        "passive":  "If the carrier is a [Plant] character, after they cast a rank 3 incantation, all allies gain Incantation Might +6% for 3 rounds. If the carrier is a [Beast] character, after they cast an Ultimate, all allies gain Ultimate Might +6% for 3 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1445.webp"
+    },
+    {
+        "id":  "remaining-absurdity",
+        "name":  "Remaining Absurdity",
+        "rarity":  5,
+        "passive":  "Whenever the Carrier makes a 1-target attack with a Shield active, Incantation Might +10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1414.webp"
+    },
+    {
+        "id":  "silent-gaze",
+        "name":  "Silent Gaze",
+        "rarity":  5,
+        "passive":  "When entering battle, the carrier gains DMG Taken -5%. At the start of each round, the carrier gains DMG Bonus +3%, stacking up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1427.webp"
+    },
+    {
+        "id":  "spinning-yarns",
+        "name":  "Spinning Yarns",
+        "rarity":  5,
+        "passive":  "When the carrier is a [Star] character, Ultimate Might +5%. When the carrier\u0027s ultimate is a mass attack and scores a critical hit on all targets, DMG Dealt +4%, stacks up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1432.webp"
+    },
+    {
+        "id":  "substitutes-and-simulacra",
+        "name":  "Substitutes and Simulacra",
+        "rarity":  5,
+        "passive":  "The carrier gains Critical Rate +8%. After the carrier\u0027s attack triggers a Bullet effect, gains Critical DMG +16% for 2 rounds.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1442.webp"
+    },
+    {
+        "id":  "take-the-hard-journey",
+        "name":  "Take the Hard Journey",
+        "rarity":  5,
+        "passive":  "When the Carrier is below 40% HP, Healing Done +12%",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1420.webp"
+    },
+    {
+        "id":  "tea-break",
+        "name":  "Tea Break",
+        "rarity":  5,
+        "passive":  "When the carrier attacks an enemy in [Disarm] or [Silence] status, DMG Dealt +14%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1422.webp"
+    },
+    {
+        "id":  "the-footloose",
+        "name":  "The Footloose",
+        "rarity":  5,
+        "passive":  "When the carrier attacks, if the target\u0027s HP is above 50%, DMG Dealt +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1404.webp"
+    },
+    {
+        "id":  "the-loner",
+        "name":  "The Loner",
+        "rarity":  5,
+        "passive":  "When the carrier is a [Plant] character, DMG Dealt +6%. When the carrier attacks an enemy that\u0027s in the [Nightmare] status, gain Penetration Rate +4% for self, stacks up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1433.webp"
+    },
+    {
+        "id":  "the-severed-and-the-rest",
+        "name":  "The Severed and the Rest",
+        "rarity":  5,
+        "passive":  "When the carrier is an [Intellect] character, Penetration Rate +8%. When the carrier attacks an enemy that\u0027s in the [Paralyze] or [Daze] status, DMG Bonus +4%, stacks up to 3 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1435.webp"
+    },
+    {
+        "id":  "the-wind-s-listener",
+        "name":  "The Wind\u0027s Listener",
+        "rarity":  5,
+        "passive":  "If the carrier is a [Beast] character, their deployed [Array] additionally grants Ultimate Might +10% to all allies. This effect is removed after the Array ends or is replaced.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1446.webp"
+    },
+    {
+        "id":  "tomorrow-also",
+        "name":  "Tomorrow Also",
+        "rarity":  5,
+        "passive":  "When the carrier casts an Ultimate, Critical Rate +10%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1402.webp"
+    },
+    {
+        "id":  "yearning-desire",
+        "name":  "Yearning Desire",
+        "rarity":  5,
+        "passive":  "When the carrier attacks, if the target has [Stats Down] or [Neg Status], DMG Dealt +8%.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1401.webp"
+    },
+    {
+        "id":  "you-deserve-it",
+        "name":  "You Deserve It",
+        "rarity":  5,
+        "passive":  "After the carrier casts a mass heal incantation, gain Incantation Might +1% and Ultimate Might +1%, stackable up to 5 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1431.webp"
+    },
+    {
+        "id":  "your-friendly-exorcist",
+        "name":  "Your Friendly Exorcist",
+        "rarity":  5,
+        "passive":  "When entering battle, for each character present with the [Plant] afflatus, including the carrier, all allied characters of the [Plant] afflatus gain DMG Dealt +2%, stacking up to 4 times.",
+        "image_url":  "https://www.gacha.gg/img/reverse-1999/dm/psychubes/1438.webp"
+    }
+]
