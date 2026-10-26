@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"net/http/cgi"
 	"os"
+	"strings"
 
 	"re1999-backend/internal/database"
 	"re1999-backend/internal/handlers"
@@ -24,6 +25,11 @@ func enableCORS(next http.Handler) http.Handler {
 		if r.Method == http.MethodOptions {
 			w.WriteHeader(http.StatusOK)
 			return
+		}
+
+		// Jika dipanggil lewat Apache CGI rewrite (/api.cgi/api/...), rapikan path-nya:
+		if strings.HasPrefix(r.URL.Path, "/api.cgi") {
+			r.URL.Path = strings.TrimPrefix(r.URL.Path, "/api.cgi")
 		}
 
 		next.ServeHTTP(w, r)

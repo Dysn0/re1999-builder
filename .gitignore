@@ -6,7 +6,10 @@ frontend/dist/
 backend/server.exe
 backend/server
 backend/server_linux
+backend/api.cgi
+frontend/dist/api.cgi
 *.exe
+*.zip
 
 # 3. File Database lokal SQLite (akan otomatis dibuat ulang oleh Seed saat dijalankan)
 backend/data/*.db
